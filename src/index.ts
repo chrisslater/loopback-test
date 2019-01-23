@@ -1,9 +1,9 @@
-import { plus } from './lib/test'
+import { plus } from './lib'
 
-import {AppApplication} from './application';
-import {ApplicationConfig} from '@loopback/core';
+import { AppApplication } from './application';
+import { ApplicationConfig } from '@loopback/core';
 
-export {AppApplication};
+export { AppApplication };
 
 
 

@@ -10,5 +10,13 @@
     "node_modules/**",
     "packages/*/node_modules/**",
     "**/*.d.ts"
-  ]
+  ],
+  "compilerOptions": {
+    "typeRoots": [
+      "./typings"
+    ],
+    "allowJs": true,
+    "checkJs": false,
+    "declaration": false
+  }
 }
