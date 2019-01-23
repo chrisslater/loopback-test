@@ -12,9 +12,6 @@
     "**/*.d.ts"
   ],
   "compilerOptions": {
-    "typeRoots": [
-      "./typings"
-    ],
     "allowJs": true,
     "checkJs": false,
     "declaration": false
